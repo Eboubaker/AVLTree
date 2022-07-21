@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'org.github.eboubaker'
+version '1.0'
